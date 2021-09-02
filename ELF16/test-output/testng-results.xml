@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[Login Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[HomePage is displayed]]>
+    </line>
+    <line>
+      <![CDATA[ContatctPage is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Creating New Contact Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contatct Information Updated Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[HomePage is displayed]]>
+    </line>
+    <line>
+      <![CDATA[ContatctPage is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Creating New Contact Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contatct Information Updated Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[HomePage is displayed]]>
+    </line>
+    <line>
+      <![CDATA[ContatctPage is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Creating New Contact Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contatct Information Updated Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[HomePage is displayed]]>
+    </line>
+    <line>
+      <![CDATA[ContatctPage is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Creating New Contact Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contatct Information Updated Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[HomePage is displayed]]>
+    </line>
+    <line>
+      <![CDATA[ContatctPage is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Creating New Contact Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contatct Information Updated Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Logout Page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="128266" started-at="2021-08-23T11:50:52 IST" finished-at="2021-08-23T11:53:00 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="128266" started-at="2021-08-23T11:50:52 IST" finished-at="2021-08-23T11:53:00 IST">
+      <class name="vtigerTestScripts.TC_12Test">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:vtigerTestScripts.TC_12Test@3234e239]" name="preCondition" is-config="true" duration-ms="3550" started-at="2021-08-23T11:50:52 IST" finished-at="2021-08-23T11:50:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="login()[pri:0, instance:vtigerTestScripts.TC_12Test@3234e239]" name="login" is-config="true" duration-ms="3967" started-at="2021-08-23T11:50:56 IST" finished-at="2021-08-23T11:51:00 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createContactTC_12()[pri:0, instance:vtigerTestScripts.TC_12Test@3234e239]" name="createContactTC_12" duration-ms="15686" started-at="2021-08-23T11:51:00 IST" finished-at="2021-08-23T11:51:15 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[HomePage is displayed]]>
+            </line>
+            <line>
+              <![CDATA[ContatctPage is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Creating New Contact Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contatct Information Updated Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactTC_12 -->
+        <test-method status="PASS" signature="logoutofApp()[pri:0, instance:vtigerTestScripts.TC_12Test@3234e239]" name="logoutofApp" is-config="true" duration-ms="4252" started-at="2021-08-23T11:51:15 IST" finished-at="2021-08-23T11:51:20 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutofApp -->
+      </class> <!-- vtigerTestScripts.TC_12Test -->
+      <class name="vtigerTestScripts.TC_11Test">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:vtigerTestScripts.TC_11Test@436e852b]" name="preCondition" is-config="true" duration-ms="2100" started-at="2021-08-23T11:51:20 IST" finished-at="2021-08-23T11:51:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="login()[pri:0, instance:vtigerTestScripts.TC_11Test@436e852b]" name="login" is-config="true" duration-ms="3946" started-at="2021-08-23T11:51:22 IST" finished-at="2021-08-23T11:51:26 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createContactTC_11()[pri:0, instance:vtigerTestScripts.TC_11Test@436e852b]" name="createContactTC_11" duration-ms="17982" started-at="2021-08-23T11:51:26 IST" finished-at="2021-08-23T11:51:44 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[HomePage is displayed]]>
+            </line>
+            <line>
+              <![CDATA[ContatctPage is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Creating New Contact Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contatct Information Updated Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactTC_11 -->
+        <test-method status="PASS" signature="logoutofApp()[pri:0, instance:vtigerTestScripts.TC_11Test@436e852b]" name="logoutofApp" is-config="true" duration-ms="4344" started-at="2021-08-23T11:51:44 IST" finished-at="2021-08-23T11:51:48 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutofApp -->
+      </class> <!-- vtigerTestScripts.TC_11Test -->
+      <class name="vtigerTestScripts.TC_10Test">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:vtigerTestScripts.TC_10Test@32d2fa64]" name="preCondition" is-config="true" duration-ms="2172" started-at="2021-08-23T11:51:48 IST" finished-at="2021-08-23T11:51:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="login()[pri:0, instance:vtigerTestScripts.TC_10Test@32d2fa64]" name="login" is-config="true" duration-ms="3744" started-at="2021-08-23T11:51:50 IST" finished-at="2021-08-23T11:51:54 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createContactTC_10()[pri:0, instance:vtigerTestScripts.TC_10Test@32d2fa64]" name="createContactTC_10" duration-ms="17316" started-at="2021-08-23T11:51:54 IST" finished-at="2021-08-23T11:52:11 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[HomePage is displayed]]>
+            </line>
+            <line>
+              <![CDATA[ContatctPage is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Creating New Contact Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contatct Information Updated Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactTC_10 -->
+        <test-method status="PASS" signature="logoutofApp()[pri:0, instance:vtigerTestScripts.TC_10Test@32d2fa64]" name="logoutofApp" is-config="true" duration-ms="4121" started-at="2021-08-23T11:52:11 IST" finished-at="2021-08-23T11:52:15 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutofApp -->
+      </class> <!-- vtigerTestScripts.TC_10Test -->
+      <class name="vtigerTestScripts.TC_09Test">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:vtigerTestScripts.TC_09Test@1d8d30f7]" name="preCondition" is-config="true" duration-ms="2190" started-at="2021-08-23T11:52:15 IST" finished-at="2021-08-23T11:52:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="login()[pri:0, instance:vtigerTestScripts.TC_09Test@1d8d30f7]" name="login" is-config="true" duration-ms="3878" started-at="2021-08-23T11:52:18 IST" finished-at="2021-08-23T11:52:21 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createContactTC_09()[pri:0, instance:vtigerTestScripts.TC_09Test@1d8d30f7]" name="createContactTC_09" duration-ms="15127" started-at="2021-08-23T11:52:21 IST" finished-at="2021-08-23T11:52:37 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[HomePage is displayed]]>
+            </line>
+            <line>
+              <![CDATA[ContatctPage is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Creating New Contact Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contatct Information Updated Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactTC_09 -->
+        <test-method status="PASS" signature="logoutofApp()[pri:0, instance:vtigerTestScripts.TC_09Test@1d8d30f7]" name="logoutofApp" is-config="true" duration-ms="4073" started-at="2021-08-23T11:52:37 IST" finished-at="2021-08-23T11:52:41 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutofApp -->
+      </class> <!-- vtigerTestScripts.TC_09Test -->
+      <class name="vtigerTestScripts.TC_08Test">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:vtigerTestScripts.TC_08Test@3e57cd70]" name="preCondition" is-config="true" duration-ms="2093" started-at="2021-08-23T11:52:41 IST" finished-at="2021-08-23T11:52:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="login()[pri:0, instance:vtigerTestScripts.TC_08Test@3e57cd70]" name="login" is-config="true" duration-ms="3579" started-at="2021-08-23T11:52:43 IST" finished-at="2021-08-23T11:52:46 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createContactTC_08()[pri:0, instance:vtigerTestScripts.TC_08Test@3e57cd70]" name="createContactTC_08" duration-ms="9970" started-at="2021-08-23T11:52:46 IST" finished-at="2021-08-23T11:52:56 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[HomePage is displayed]]>
+            </line>
+            <line>
+              <![CDATA[ContatctPage is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Creating New Contact Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contatct Information Updated Page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactTC_08 -->
+        <test-method status="PASS" signature="logoutofApp()[pri:0, instance:vtigerTestScripts.TC_08Test@3e57cd70]" name="logoutofApp" is-config="true" duration-ms="4067" started-at="2021-08-23T11:52:56 IST" finished-at="2021-08-23T11:53:00 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout Page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logoutofApp -->
+      </class> <!-- vtigerTestScripts.TC_08Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
